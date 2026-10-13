@@ -29,10 +29,10 @@ O **AB.C** foi desenvolvido por estudantes da **Universidade de Brasília (UnB)*
 ## Conheça o aplicativo
 
 <div align="center">
-  <img src="mídia/262.jpg" alt="Tela do aplicativo AB.C" width="24%" />
-  <img src="mídia/264.jpg" alt="Desafio de programação no AB.C" width="24%" />
-  <img src="mídia/265.jpg" alt="Atividade do aplicativo AB.C" width="24%" />
-  <img src="mídia/268.jpg" alt="Tela de aprendizagem do AB.C" width="24%" />
+  <img src="midia/262.jpg" alt="Tela do aplicativo AB.C" width="24%" />
+  <img src="midia/264.jpg" alt="Desafio de programação no AB.C" width="24%" />
+  <img src="midia/265.jpg" alt="Atividade do aplicativo AB.C" width="24%" />
+  <img src="midia/268.jpg" alt="Tela de aprendizagem do AB.C" width="24%" />
 </div>
 
 ## Finalidade e conteúdos
