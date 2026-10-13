@@ -1,120 +1,123 @@
 <div align="center">
 
-  <img src="midia/1791870679315~2.jpg" alt="Ícone do AB.c" width="120" style="border-radius: 22%;" />
+  <img src="midia/1791870679315~2.jpg" alt="Ícone do AB.c" width="115" style="border-radius: 22%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 
   # AB.c — Aprendizagem, Barreiras e Computação
 
-  **Universidade de Brasília (UnB)**  
-  <sub>Contém anúncios · Compras no app não disponíveis</sub>
+  *Aprenda programação. Pense em acessibilidade. Crie para todos.*
+
+  <sub>Universidade de Brasília (UnB) · Educação · Gratuito</sub>
 
   <br />
 
-  <!-- Play Store Stat Badges -->
+  <!-- App Store Badges -->
   <a href="LINK_DO_APK_AQUI">
-    <img src="https://img.shields.io/badge/4.9%20★-Reviews-orange?style=flat-square&logo=googleplay&logoColor=white" alt="Avaliação" />
+    <img src="https://img.shields.io/badge/4.9%20★-Avaliações-black?style=flat-square&logo=apple&logoColor=white" alt="Avaliação" />
   </a>
   <a href="LINK_DO_APK_AQUI">
-    <img src="https://img.shields.io/badge/100%2B-Downloads-blue?style=flat-square" alt="Downloads" />
+    <img src="https://img.shields.io/badge/Livre-Classificação_Indicativa-blue?style=flat-square&logo=apple&logoColor=white" alt="Classificação" />
   </a>
   <a href="LINK_DO_APK_AQUI">
-    <img src="https://img.shields.io/badge/Livre-Classificação_Livre-green?style=flat-square" alt="Classificação indicativa" />
-  </a>
-  <a href="LINK_DO_APK_AQUI">
-    <img src="https://img.shields.io/badge/Educação-Categoria-informational?style=flat-square" alt="Categoria" />
+    <img src="https://img.shields.io/badge/Português-Idioma-grey?style=flat-square&logo=apple&logoColor=white" alt="Idioma" />
   </a>
 
   <br /><br />
 
-  <!-- Action Button -->
+  <!-- Apple Store Action Button -->
   <a href="LINK_DO_APK_AQUI">
-    <img src="https://img.shields.io/badge/Instalar%20(APK)-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Instalar o aplicativo" />
+    <img src="https://img.shields.io/badge/Obter%20o%20App-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Baixar na App Store" />
   </a>
 
   <br />
-  <sub>Disponível para Android · Instalação direta via APK</sub>
+  <sub>Disponível para Android · Instalação via pacote APK</sub>
 
 </div>
 
 ---
 
-## 📸 Capturas de tela
+## DESTAQUE DA APP STORE
 
-<div align="center">
-  <img src="midia/262.jpg" alt="Tela inicial do AB.c" width="23%" />
-  <img src="midia/264.jpg" alt="Desafio de lógica" width="23%" />
-  <img src="midia/265.jpg" alt="Atividade prática" width="23%" />
-  <img src="midia/268.jpg" alt="Trilha de aprendizagem" width="23%" />
-</div>
+> ***"Uma jornada inclusiva na ciência da computação."***  
+> O **AB.c** transforma conceitos complexos de programação em desafios visuais e práticos, incentivando o desenvolvimento de software acessível para o ensino médio.
 
 ---
 
-## ℹ️ Sobre este app
+## SOBRE ESTE APP
 
-**Aprenda programação. Pense em acessibilidade. Crie para todos.**
+O **AB.c** é um aplicativo educacional desenvolvido para introduzir o raciocínio lógico e a programação de computadores de forma interativa, prática e consciente.
 
-O **AB.c** é um aplicativo educativo projetado para transformar o aprendizado de lógica de programação em uma jornada interativa e acessível para estudantes do ensino médio.
+Inspirado nas melhores metodologias gamificadas de aprendizagem, o app convida os estudantes a resolverem desafios práticos, integrando boas práticas de acessibilidade digital desde as primeiras linhas de código.
 
-Inspirado na dinâmica gamificada do Duolingo, o aplicativo guia você por etapas e desafios práticos que estimulam o raciocínio lógico, a resolução de problemas e o desenvolvimento de código consciente.
+### RECURSOS PRINCIPAIS
 
-### 🧠 O que você vai encontrar no app:
-
-* 🧩 **Lógica de Programação:** Entenda instruções, variáveis, tipos de dados e operações fundamentais.
-* ⚡ **Estruturas de Controle:** Domine condicionais (`if`/`else`), comparações, operadores lógicos e manipulação de eventos.
-* ♿ **Acessibilidade Digital:** Descubra na prática como criar softwares e interfaces inclusivas para pessoas com diferentes necessidades.
-* 🏪 **Desafios do Mundo Real (Loja do Tonho):** Resolva problemas práticos do dia a dia aplicando lógica e aprimorando a acessibilidade de sistemas comerciais.
+* **`Fundamentos da Computação`** — Compreenda conceitos essenciais como *variáveis*, *tipos de dados*, *sintaxe* e *operações lógicas*.
+* **`Estruturas de Controle`** — Pratique o uso de condicionais (`if` / `else`), operadores de comparação e manipulação de eventos.
+* **`Acessibilidade Universal`** — Descubra na prática como projetar interfaces e softwares que possam ser utilizados por todas as pessoas.
+* **`Estudo de Caso — Loja do Tonho`** — Aplique a lógica de programação em cenários do mundo real para resolver problemas operacionais e aprimorar a acessibilidade de um sistema comercial.
 
 ---
 
-## 📥 Como instalar no seu dispositivo Android
+## GUIA DE INSTALAÇÃO
 
-Por se tratar de um projeto universitário distribuído em formato **APK** fora da Google Play Store, siga os passos abaixo para realizar a instalação de forma rápida e segura:
+Por se tratar de um projeto de pesquisa universitário distribuído em formato **APK** fora da loja oficial, siga o procedimento de instalação abaixo:
 
 <div align="center">
-  <img src="midia/1791871672655.jpg" alt="Passo 1: Baixar o APK" width="23%" />
-  <img src="midia/Screenshot_2026-10-13-00-00-52-183_host.exp.exponent.jpg" alt="Passo 2: Abrir arquivo" width="23%" />
-  <img src="midia/como-instalar-apps-de-fontes-desconhecidas-no-samsung-passo-4.webp" alt="Passo 3: Permitir fonte" width="23%" />
-  <img src="midia/como-instalar-apps-de-fontes-desconhecidas-no-samsung-passo-5.webp" alt="Passo 4: Concluir instalação" width="23%" />
+  <img src="midia/1791871672655.jpg" alt="Passo 1" width="22%" />
+  <img src="midia/Screenshot_2026-10-13-00-00-52-183_host.exp.exponent.jpg" alt="Passo 2" width="22%" />
+  <img src="midia/como-instalar-apps-de-fontes-desconhecidas-no-samsung-passo-4.webp" alt="Passo 3" width="22%" />
+  <img src="midia/como-instalar-apps-de-fontes-desconhecidas-no-samsung-passo-5.webp" alt="Passo 4" width="22%" />
 </div>
 
 <br />
 
-1. **Baixar:** Toque no botão **Instalar (APK)** no topo ou no final desta página.
-2. **Permitir:** Caso o Android exiba um aviso de segurança, acesse as configurações do navegador e autorize a **Instalação de fontes desconhecidas**.
-3. **Instalar:** Abra o arquivo baixado e selecione **Instalar**.
-4. **Pronto!** Abra o **AB.c** e comece sua jornada na computação.
+1. **Obter:** Clique no botão *Obter o App* para efetuar o download do arquivo APK.
+2. **Autorizar:** Nas configurações de segurança do seu dispositivo, permita a *Instalação de fontes desconhecidas*.
+3. **Instalar:** Abra o pacote baixado e confirme a instalação.
+4. **Iniciar:** Abra o aplicativo e comece a explorar os desafios.
 
 ---
 
-## 📋 Informações do app
+## INFORMAÇÕES TÉCNICAS
 
-| Atributo | Detalhes |
+| Especificação | Detalhe |
 | :--- | :--- |
-| **Versão** | 1.0.0 |
-| **Última atualização** | Outubro de 2026 |
-| **Tamanho do download** | Varia de acordo com o APK |
-| **Requer Android** | 7.0 (Nougat) ou superior |
-| **Classificação do conteúdo** | Livre |
-| **Lançamento** | 2026 |
-| **Oferecido por** | Estudantes da Universidade de Brasília (UnB) |
+| **Desenvolvedor** | **Universidade de Brasília (UnB)** |
+| **Tamanho** | ~25 MB |
+| **Categoria** | Educação / Computação |
+| **Compatibilidade** | Requer Android 7.0 ou posterior |
+| **Idiomas** | Português |
+| **Classificação** | Livre para todos os públicos |
+| **Copyright** | © 2026 AB.c / UnB |
+| **Preço** | Gratuito |
 
 ---
 
-## ⭐ Avaliações e feedback
+## AVALIAÇÕES E SUPORTE
 
-Sua opinião é fundamental para o aprimoramento do **AB.c**! 
+A sua opinião nos ajuda a evoluir a experiência do aplicativo! Conte-nos sobre a sua jornada de aprendizado, sugestões de novos desafios ou relatos de uso.
 
-Depois de experimentar os desafios e testar as funcionalidades do aplicativo, envie-nos sua avaliação dizendo o que aprendeu, o que achou dos desafios e quais pontos podem ser melhorados.
+* **Suporte do Desenvolvedor:** [redjp15@gmail.com](mailto:redjp15@gmail.com)
 
-📩 **Contato do desenvolvedor:** [redjp15@gmail.com](mailto:redjp15@gmail.com)
+---
+
+## PRÉ-VISUALIZAÇÃO (CAPTURAS DE TELA)
+
+<div align="center">
+  <img src="src/assets/perfil1.jpeg" alt="Tela do aplicativo AB.c" width="18%" />
+  <img src="src/assets/perfil2.jpeg" alt="Tela do aplicativo AB.c" width="18%" />
+  <img src="src/assets/perfil3.jpeg" alt="Tela do aplicativo AB.c" width="18%" />
+  <img src="src/assets/perfil4.jpeg" alt="Tela do aplicativo AB.c" width="18%" />
+  <img src="src/assets/perfil5.jpeg" alt="Tela do aplicativo AB.c" width="18%" />
+</div>
 
 ---
 
 <div align="center">
 
-  ### 💚 Experimente o AB.c agora mesmo
+  ### Comece a codificar hoje mesmo
 
   <a href="LINK_DO_APK_AQUI">
-    <img src="https://img.shields.io/badge/Instalar%20(APK)-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Instalar o aplicativo" />
+    <img src="https://img.shields.io/badge/Obter%20o%20App-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Baixar o aplicativo" />
   </a>
 
   <br /><br />
