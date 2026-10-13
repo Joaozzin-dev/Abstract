@@ -3,7 +3,7 @@
 
   <img src="midia/1791870679315~2.jpg" alt="Ícone do AB.C" width="112" />
 
-  # AB.C — Aprender, Brincar e Codificar
+  # AB.c — Aprendizagem, Barreiras e Computação
 
   **Aprenda programação. Pense em acessibilidade. Crie para todos.**
 
