@@ -53,33 +53,13 @@ Os desafios incluem situações práticas, como as da **Loja do Tonho**, em que 
 
 O AB.C é distribuído em formato **APK**, para dispositivos Android. Como o aplicativo não está hospedado na Google Play Store, o sistema pode apresentar avisos durante o download ou a instalação.
 
-### Passo a passo
+<div align="center">
+  <img src="midia/262.jpg" alt="Tela do aplicativo AB.C" width="40%" />
+  <img src="midia/264.jpg" alt="Desafio de programação no AB.C" width="40%" />
+  <img src="midia/265.jpg" alt="Atividade do aplicativo AB.C" width="40%" />
+  <img src="midia/268.jpg" alt="Tela de aprendizagem do AB.C" width="40%" />
+</div>
 
-**1. Baixe o aplicativo**
-
-Toque no botão de download no início desta página e aguarde o arquivo APK ser baixado.
-
-![Passo 1 — Baixar o aplicativo](mídia/instalar-1.jpg)
-
-**2. Abra o arquivo baixado**
-
-Localize o APK na pasta **Downloads** do dispositivo e toque nele para iniciar a instalação.
-
-![Passo 2 — Abrir o APK](mídia/instalar-2.jpg)
-
-**3. Confira os avisos do Android**
-
-As mensagens podem variar conforme o dispositivo. Verifique se o arquivo foi obtido pelo link oficial do projeto. Se o Android ou o Google Play Protect indicar que o aplicativo pode ser nocivo, não ignore o alerta automaticamente: interrompa a instalação e entre em contato com a equipe para verificar o arquivo.
-
-![Passo 3 — Avisos de instalação](mídia/instalar-3.jpg)
-
-**4. Instale e abra o AB.C**
-
-Siga as instruções do dispositivo para concluir a instalação. Depois, abra o aplicativo e comece a explorar os desafios.
-
-![Passo 4 — Abrir o AB.C](mídia/instalar-4.jpg)
-
----
 
 <div align="center">
 
