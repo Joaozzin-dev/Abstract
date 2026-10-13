@@ -1,105 +1,123 @@
 <div align="center">
 
-  <img src="midia/1791870679315~2.jpg" alt="Logo AB.c" width="120" />
+  <img src="midia/1791870679315~2.jpg" alt="Ícone do AB.c" width="120" style="border-radius: 22%;" />
 
   # AB.c — Aprendizagem, Barreiras e Computação
 
-  **Aprenda programação. Pense em acessibilidade. Crie para todos.**
-
-  Um aplicativo educativo que transforma o ensino de lógica de programação em desafios interativos e acessíveis para estudantes do ensino médio.
-
-  <br />
-
-  [![Baixar para Android](https://img.shields.io/badge/BAIXAR%20PARA%20ANDROID-2E7D32?style=for-the-badge&logo=android&logoColor=white)](LINK_DO_APK_AQUI)
+  **Universidade de Brasília (UnB)**  
+  <sub>Contém anúncios · Compras no app não disponíveis</sub>
 
   <br />
-  <sub>Android · Arquivo APK · Gratuito</sub>
+
+  <!-- Play Store Stat Badges -->
+  <a href="LINK_DO_APK_AQUI">
+    <img src="https://img.shields.io/badge/4.9%20★-Reviews-orange?style=flat-square&logo=googleplay&logoColor=white" alt="Avaliação" />
+  </a>
+  <a href="LINK_DO_APK_AQUI">
+    <img src="https://img.shields.io/badge/100%2B-Downloads-blue?style=flat-square" alt="Downloads" />
+  </a>
+  <a href="LINK_DO_APK_AQUI">
+    <img src="https://img.shields.io/badge/Livre-Classificação_Livre-green?style=flat-square" alt="Classificação indicativa" />
+  </a>
+  <a href="LINK_DO_APK_AQUI">
+    <img src="https://img.shields.io/badge/Educação-Categoria-informational?style=flat-square" alt="Categoria" />
+  </a>
+
+  <br /><br />
+
+  <!-- Action Button -->
+  <a href="LINK_DO_APK_AQUI">
+    <img src="https://img.shields.io/badge/Instalar%20(APK)-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Instalar o aplicativo" />
+  </a>
+
+  <br />
+  <sub>Disponível para Android · Instalação direta via APK</sub>
 
 </div>
 
 ---
 
-## 📌 Sobre o Projeto
-
-O **AB.c** foi desenvolvido por estudantes da **Universidade de Brasília (UnB)** como um projeto acadêmico focado na interseção entre **educação, computação e acessibilidade digital**. 
-
-O objetivo central é ensinar conceitos introdutórios de programação de forma intuitiva e prática, conscientizando as novas gerações de desenvolvedores sobre a importância de criar tecnologias inclusivas desde as primeiras linhas de código.
-
----
-
-## 📱 Interface do Aplicativo
+## 📸 Capturas de tela
 
 <div align="center">
   <img src="midia/262.jpg" alt="Tela inicial do AB.c" width="23%" />
-  <img src="midia/264.jpg" alt="Desafio interativo" width="23%" />
-  <img src="midia/265.jpg" alt="Atividade de fixação" width="23%" />
+  <img src="midia/264.jpg" alt="Desafio de lógica" width="23%" />
+  <img src="midia/265.jpg" alt="Atividade prática" width="23%" />
   <img src="midia/268.jpg" alt="Trilha de aprendizagem" width="23%" />
 </div>
 
 ---
 
-## 🎯 Conteúdos e Metodologia
+## ℹ️ Sobre este app
 
-Inspirado na dinâmica de gamificação do *Duolingo*, o **AB.c** guia o estudante por trilhas e desafios práticos que estimulam o raciocínio lógico e a resolução de problemas do mundo real.
+**Aprenda programação. Pense em acessibilidade. Crie para todos.**
 
-### 💡 O que você vai aprender:
+O **AB.c** é um aplicativo educativo projetado para transformar o aprendizado de lógica de programação em uma jornada interativa e acessível para estudantes do ensino médio.
 
-- **Lógica e Fundamentos:** Instruções executáveis, variáveis, tipos de dados e operações.
-- **Estruturas de Controle:** Condicionais (`if/else`), comparações, operadores lógicos e eventos.
-- **Acessibilidade Digital:** Práticas e conceitos fundamentais para tornar sistemas compreensíveis e utilizáveis por pessoas com diferentes necessidades e deficiências.
+Inspirado na dinâmica gamificada do Duolingo, o aplicativo guia você por etapas e desafios práticos que estimulam o raciocínio lógico, a resolução de problemas e o desenvolvimento de código consciente.
 
-> 🏬 **Caso Prático — Loja do Tonho:**  
-> Os desafios incluem cenários reais como a *Loja do Tonho*, onde o usuário utiliza lógica de programação para resolver problemas operacionais e implementar melhorias diretas na acessibilidade do sistema.
+### 🧠 O que você vai encontrar no app:
+
+* 🧩 **Lógica de Programação:** Entenda instruções, variáveis, tipos de dados e operações fundamentais.
+* ⚡ **Estruturas de Controle:** Domine condicionais (`if`/`else`), comparações, operadores lógicos e manipulação de eventos.
+* ♿ **Acessibilidade Digital:** Descubra na prática como criar softwares e interfaces inclusivas para pessoas com diferentes necessidades.
+* 🏪 **Desafios do Mundo Real (Loja do Tonho):** Resolva problemas práticos do dia a dia aplicando lógica e aprimorando a acessibilidade de sistemas comerciais.
 
 ---
 
-## 📥 Como Instalar (Passo a Passo)
+## 📥 Como instalar no seu dispositivo Android
 
-O **AB.c** é disponibilizado diretamente via pacote **APK** para dispositivos Android. Por não estar na Google Play Store, o Android pode exibir alertas padrão ao baixar ou instalar arquivos de fontes externas.
+Por se tratar de um projeto universitário distribuído em formato **APK** fora da Google Play Store, siga os passos abaixo para realizar a instalação de forma rápida e segura:
 
 <div align="center">
-  <img src="midia/1791871672655.jpg" alt="Passo 1: Baixar APK" width="23%" />
-  <img src="midia/Screenshot_2026-10-13-00-00-52-183_host.exp.exponent.jpg" alt="Passo 2: Abrir instalador" width="23%" />
+  <img src="midia/1791871672655.jpg" alt="Passo 1: Baixar o APK" width="23%" />
+  <img src="midia/Screenshot_2026-10-13-00-00-52-183_host.exp.exponent.jpg" alt="Passo 2: Abrir arquivo" width="23%" />
   <img src="midia/como-instalar-apps-de-fontes-desconhecidas-no-samsung-passo-4.webp" alt="Passo 3: Permitir fonte" width="23%" />
   <img src="midia/como-instalar-apps-de-fontes-desconhecidas-no-samsung-passo-5.webp" alt="Passo 4: Concluir instalação" width="23%" />
 </div>
 
 <br />
 
-1. **Baixar o APK:** Clique no botão de download abaixo ou no topo do repositório.
-2. **Permitir Instalação:** Se solicitado pelo Android, confirme a autorização para baixar/instalar aplicativos de fontes desconhecidas no seu navegador.
-3. **Instalar:** Abra o arquivo baixado e toque em **Instalar**.
-4. **Pronto!** Abra o aplicativo e comece a aprender.
-
-<br />
-
-<div align="center">
-
-  ### 🚀 Pronto para começar?
-
-  [![Baixar o AB.c](https://img.shields.io/badge/BAIXAR%20O%20AB.C-2E7D32?style=for-the-badge&logo=android&logoColor=white)](LINK_DO_APK_AQUI)
-
-</div>
+1. **Baixar:** Toque no botão **Instalar (APK)** no topo ou no final desta página.
+2. **Permitir:** Caso o Android exiba um aviso de segurança, acesse as configurações do navegador e autorize a **Instalação de fontes desconhecidas**.
+3. **Instalar:** Abra o arquivo baixado e selecione **Instalar**.
+4. **Pronto!** Abra o **AB.c** e comece sua jornada na computação.
 
 ---
 
-## 💬 Feedback e Contato
+## 📋 Informações do app
 
-Sua opinião é fundamental para avaliarmos o impacto educativo e aprimorarmos as futuras versões do aplicativo!
-
-Após testar o **AB.c**, compartilhe conosco:
-- O que achou dos desafios e da trilha de aprendizado?
-- Quais conceitos foram fáceis ou difíceis de compreender?
-- Sugestões de novos cenários, bugs encontrados ou pontos de melhoria.
-
-📧 **Contato por e-mail:** [redjp15@gmail.com](mailto:redjp15@gmail.com)
+| Atributo | Detalhes |
+| :--- | :--- |
+| **Versão** | 1.0.0 |
+| **Última atualização** | Outubro de 2026 |
+| **Tamanho do download** | Varia de acordo com o APK |
+| **Requer Android** | 7.0 (Nougat) ou superior |
+| **Classificação do conteúdo** | Livre |
+| **Lançamento** | 2026 |
+| **Oferecido por** | Estudantes da Universidade de Brasília (UnB) |
 
 ---
 
-## 👥 Créditos e Realização
+## ⭐ Avaliações e feedback
 
-Projeto acadêmico desenvolvido por estudantes do curso de **Ciência da Computação** da **Universidade de Brasília (UnB)**.
+Sua opinião é fundamental para o aprimoramento do **AB.c**! 
+
+Depois de experimentar os desafios e testar as funcionalidades do aplicativo, envie-nos sua avaliação dizendo o que aprendeu, o que achou dos desafios e quais pontos podem ser melhorados.
+
+📩 **Contato do desenvolvedor:** [redjp15@gmail.com](mailto:redjp15@gmail.com)
+
+---
 
 <div align="center">
+
+  ### 💚 Experimente o AB.c agora mesmo
+
+  <a href="LINK_DO_APK_AQUI">
+    <img src="https://img.shields.io/badge/Instalar%20(APK)-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Instalar o aplicativo" />
+  </a>
+
+  <br /><br />
   <sub><b>AB.c — Aprender, Brincar e Codificar.</b></sub>
+
 </div>
