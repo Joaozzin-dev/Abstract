@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
   <img src="mídia/icone.png" alt="Ícone do AB.C" width="112" />
@@ -108,4 +108,3 @@ Depois de testar, conte o que achou dos desafios, o que aprendeu, quais partes f
 Projeto acadêmico desenvolvido por estudantes da **Universidade de Brasília (UnB)**, com foco em programação, educação e acessibilidade digital.
 
 **AB.C — Aprender, Brincar e Codificar.**
-```
