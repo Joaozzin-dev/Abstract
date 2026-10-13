@@ -81,7 +81,7 @@ Por se tratar de um projeto acadêmico distribuído em formato **APK** fora da l
 | :--- | :--- |
 | **Desenvolvedor** | Estudantes da **Universidade de Brasília (UnB)** |
 | **Disciplina** | **Informática e Sociedade** |
-| **Tamanho** | ~25 MB |
+| **Tamanho** | ~65 MB |
 | **Categoria** | Educação / Computação |
 | **Compatibilidade** | Requer Android 7.0 ou posterior |
 | **Idiomas** | Português |
