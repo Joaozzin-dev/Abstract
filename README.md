@@ -55,9 +55,10 @@ O AB.C é distribuído em formato **APK**, para dispositivos Android. Como o apl
 
 <div align="center">
   <img src="midia/1791871672655.jpg" alt="Tela do aplicativo AB.C" width="40%" />
-  <img src="midia/como-instalar-apps-de-fontes-desconhecidas-no-samsung-passo-4.webp" alt="Desafio de programação no AB.C" width="20%" />
-  <img src="midia/como-instalar-apps-de-fontes-desconhecidas-no-samsung-passo-5.webp" alt="Atividade do aplicativo AB.C" width="20%" />
   <img src="midia/Screenshot_2026-10-13-00-00-52-183_host.exp.exponent.jpg" alt="Tela de aprendizagem do AB.C" width="40%" />
+  <img src="midia/como-instalar-apps-de-fontes-desconhecidas-no-samsung-passo-4.webp" alt="Desafio de programação no AB.C" width="40%" />
+  <img src="midia/como-instalar-apps-de-fontes-desconhecidas-no-samsung-passo-5.webp" alt="Atividade do aplicativo AB.C" width="40%" />
+  
 </div>
 
 
