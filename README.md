@@ -54,10 +54,10 @@ Os desafios incluem situações práticas, como as da **Loja do Tonho**, em que 
 O AB.C é distribuído em formato **APK**, para dispositivos Android. Como o aplicativo não está hospedado na Google Play Store, o sistema pode apresentar avisos durante o download ou a instalação.
 
 <div align="center">
-  <img src="midia/262.jpg" alt="Tela do aplicativo AB.C" width="40%" />
-  <img src="midia/264.jpg" alt="Desafio de programação no AB.C" width="40%" />
-  <img src="midia/265.jpg" alt="Atividade do aplicativo AB.C" width="40%" />
-  <img src="midia/268.jpg" alt="Tela de aprendizagem do AB.C" width="40%" />
+  <img src="midia/1791871672655.jpg" alt="Tela do aplicativo AB.C" width="40%" />
+  <img src="midia/como-instalar-apps-de-fontes-desconhecidas-no-samsung-passo-4.webp" alt="Desafio de programação no AB.C" width="40%" />
+  <img src="midia/como-instalar-apps-de-fontes-desconhecidas-no-samsung-passo-5.webp" alt="Atividade do aplicativo AB.C" width="40%" />
+  <img src="midia/Screenshot_2026-10-13-00-00-52-183_host.exp.exponent.jpg" alt="Tela de aprendizagem do AB.C" width="40%" />
 </div>
 
 
