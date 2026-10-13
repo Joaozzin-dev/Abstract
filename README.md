@@ -11,9 +11,7 @@
   <br />
 
   <!-- App Store Badges -->
-  <a href="LINK_DO_APK_AQUI">
-    <img src="https://img.shields.io/badge/4.9%20★-Avaliações-black?style=flat-square" alt="Avaliação" />
-  </a>
+
   <a href="LINK_DO_APK_AQUI">
     <img src="https://img.shields.io/badge/Livre-Classificação_Indicativa-blue?style=flat-square" alt="Classificação" />
   </a>
