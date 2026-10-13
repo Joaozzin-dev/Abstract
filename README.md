@@ -35,7 +35,7 @@
 
 ## DESTAQUE DO PROJETO
 
-> ***"Uma jornada inclusiva na ciência da computação."***  
+  
 > Desenvolvido por estudantes da **Universidade de Brasília (UnB)** para a disciplina de **Informática e Sociedade**, o **AB.c** transforma conceitos de programação em desafios visuais e práticos, promovendo a conscientização sobre acessibilidade digital no ensino médio.
 
 ---
