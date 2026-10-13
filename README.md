@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="mídia/icone.png" alt="Ícone do AB.C" width="112" />
+  <img src="mídia/1791870679315~2.jpg" alt="Ícone do AB.C" width="112" />
 
   # AB.C — Aprender, Brincar e Codificar
 
