@@ -99,7 +99,7 @@ A sua opinião nos ajuda a evoluir a experiência do aplicativo! Conte-nos sobre
 
 ---
 
-## PRÉ-VISUALIZAÇÃO (CAPTURAS DE TELA)
+## NOSSA GALERIA
 
 <div align="center">
   <img src="src/assets/perfil1.jpeg" alt="Tela do aplicativo AB.c" width="18%" />
