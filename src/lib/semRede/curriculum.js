@@ -1,0 +1,23 @@
+export const CONCEPTS = {
+  io: { block:'A', label:'Entrada e saída', prerequisites:[] },
+  variables: { block:'A', label:'Variáveis', prerequisites:['io'] },
+  arithmetic: { block:'A', label:'Operações', prerequisites:['variables'] },
+  conditions: { block:'A', label:'Condicionais', prerequisites:['arithmetic'] },
+  logic: { block:'A', label:'Lógica', prerequisites:['conditions'] },
+  loops: { block:'A', label:'Repetições', prerequisites:['conditions'] },
+  integration: { block:'A', label:'Integração ABC', prerequisites:['logic','loops'] },
+  syntax: { block:'B', label:'Sintaxe C', prerequisites:['integration'] },
+  types: { block:'B', label:'Tipos e formatos', prerequisites:['syntax'] },
+  c_io: { block:'B', label:'Entrada e saída C', prerequisites:['types'] },
+  c_operators: { block:'B', label:'Operadores C', prerequisites:['c_io'] },
+  c_conditions: { block:'B', label:'Decisões C', prerequisites:['c_operators'] },
+  c_loops: { block:'B', label:'Laços C', prerequisites:['c_conditions'] },
+  functions: { block:'B', label:'Funções', prerequisites:['c_loops'] },
+  arrays: { block:'B', label:'Arrays', prerequisites:['functions'] },
+  strings: { block:'B', label:'Strings', prerequisites:['arrays'] },
+  structures: { block:'C', label:'Estruturas de dados', prerequisites:['strings'] },
+  stacks: { block:'C', label:'Pilhas', prerequisites:['structures'] },
+  queues: { block:'C', label:'Filas', prerequisites:['structures'] },
+  efficiency: { block:'C', label:'Eficiência', prerequisites:['queues'] },
+}
+export const MECHANICS = ['choice','order','fill','trace','predict','bug','match','mini_write','debug_fix','test_case','customer_crisis']

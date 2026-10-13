@@ -1,0 +1,24 @@
+
+# Dependências
+/node_modules/
+
+# Arquivos locais do Firebase
+/src/lib/firebaseProgress.js
+/src/lib/firebase.js
+
+# Configuração local do aplicativo
+/app.json
+
+# Regras do Firestore
+/firestore.rules
+
+# Script local
+/liberarProgresso.js
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Assets locais
+/assets/

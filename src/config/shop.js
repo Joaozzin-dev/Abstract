@@ -1,0 +1,42 @@
+export const SHOP_ITEMS = [
+  {
+    id: 'copiloto',
+    name: 'Copiloto',
+    blurb: 'Autocomplete opcional no editor ABC. Você ainda precisa pensar.',
+    price: 40,
+    kind: 'toggle',
+    effect: 'autocomplete',
+  },
+  {
+    id: 'letras_coloridas',
+    name: 'Letras coloridas',
+    blurb: 'Destaque de palavras-chave no editor (não altera o Rule Engine).',
+    price: 25,
+    kind: 'toggle',
+    effect: 'syntax_colors',
+  },
+  {
+    id: 'energetico',
+    name: 'Energético',
+    blurb: 'Mais tempo contra a pressão do Chefe em 1 envio.',
+    price: 30,
+    kind: 'consumable',
+    effect: 'boss_pressure_relief',
+  },
+  {
+    id: 'mini_curso',
+    name: 'Mini-curso',
+    blurb: 'Dica extra da Cátia nesta lição.',
+    price: 20,
+    kind: 'consumable',
+    effect: 'extra_hint',
+  },
+  {
+    id: 'skin_editor',
+    name: 'Skin do editor',
+    blurb: 'Visual cosmético do editor. Não muda o CI.',
+    price: 15,
+    kind: 'toggle',
+    effect: 'editor_skin',
+  },
+]
