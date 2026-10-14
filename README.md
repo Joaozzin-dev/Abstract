@@ -19,7 +19,7 @@
 
   <br /><br />
 
-  <a href="LINK_DO_APK_AQUI">
+  <a href="https://github.com/Joaozzin-dev/Abstract/releases/tag/programa%C3%A7%C3%A3o">
     <img src="https://img.shields.io/badge/Obter%20o%20App-007AFF?style=for-the-badge" alt="Obter o aplicativo" />
   </a>
 
@@ -126,7 +126,7 @@ Encontrou uma dificuldade? Teve uma ideia para um novo desafio? Percebeu algo qu
 
   ### Sua primeira linha de código pode mudar mais do que você imagina.
 
-  <a href="LINK_DO_APK_AQUI">
+  <a href="https://github.com/Joaozzin-dev/Abstract/releases/tag/programa%C3%A7%C3%A3o">
     <img src="https://img.shields.io/badge/Obter%20o%20App-007AFF?style=for-the-badge" alt="Baixar o AB.c" />
   </a>
 
