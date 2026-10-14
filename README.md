@@ -34,7 +34,7 @@
 
 > A tecnologia pode abrir caminhos, mas também pode criar barreiras. Tudo depende de como ela é pensada.
 
-O **AB.c — Aprendizagem, Barreiras e Computação** nasceu de uma proposta simples: aproximar o ensino de programação de uma questão que nem sempre recebe a atenção que merece — a acessibilidade digital.
+O **AB.c, Aprendizagem, Barreiras e Computação** nasceu de uma proposta simples: aproximar o ensino de programação de uma questão que nem sempre recebe a atenção que merece, a acessibilidade digital.
 
 Desenvolvido por estudantes da **Universidade de Brasília (UnB)**, para a disciplina de **Informática e Sociedade**, o projeto une computação, educação e inclusão em uma experiência de aprendizagem voltada especialmente para estudantes do ensino médio.
 
