@@ -1,6 +1,6 @@
  <div align="center">
 
-  <img src="src/assenta/logo.jpg" alt="Ícone do AB.c" width="115" />
+  <img src="src/assets/logo.jpg" alt="Ícone do AB.c" width="115" />
 
   # AB.c — Aprendizagem, Barreiras e Computação
 
